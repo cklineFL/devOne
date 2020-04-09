@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cklineFL/devOne/issues"
   },
-  "homepage": "https://github.com/cklineFL/devOne#readme"
+  "homepage": "https://github.com/cklineFL/devOne#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
 }
